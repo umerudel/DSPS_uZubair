@@ -9,3 +9,7 @@ perhaps change the colors used. It looked fine in tritinopia though.
 
 My final suggestion might be a legend across the bottom to outline each of the full captions.
 
+
+![](https://github.com/umerudel/DSPS_uZubair/blob/master/HW8/plot.png?raw=true)
+
+Correlogram of motor trend cars.
